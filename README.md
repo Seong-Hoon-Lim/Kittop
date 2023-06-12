@@ -15,7 +15,7 @@
   
   ### 사용기술/개발환경
   - 운영체제 : Window 11, 10
-  - 개발툴 : Gradle
+  - 빌드도구 : Gradle
   - 개발언어 : Java(JDK 11), HTML5, CSS3, Javascript
   - DBMS : MySQL 8.0 이상
   - 개발도구 : IntelliJ, HeidiSQL, VScode
@@ -42,5 +42,25 @@
   ### 유스케이스
   
   ![kittop 유스케이스](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/5f6b12fe-7d23-40e0-aaee-bf35e7296fe0)
+  
+  ### 데이터베이스 다이어그램
+  
+  ![image](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/7f672aad-cbd2-47b5-91ac-7e1046e2dc66)
+  
+  ### 와이어프레임
+  
+  ![image](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/a1d41328-5441-4b92-8444-8487462fb0b6)
+  
+  ![image](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/b17e4559-b540-41ae-b407-1a2f722ecf42)
+
+  ![image](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/9934451d-2625-4d7a-9014-64db77a61f3c)
+  
+  ### API 설계서
+  
+  https://www.notion.so/4eb9260eae9142d7956099a59cec52ce?v=ca0fece8cd3d488b8210449952f4e412
+  
+  
+
+
 
   
