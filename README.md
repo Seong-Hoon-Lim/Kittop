@@ -35,9 +35,11 @@
 
   ### 요구사항 및 기능
   
+  ![kittop 요구사항 및 기능1](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/5646b50e-2b50-4d5c-b3e1-2ab5973ab390)
+  ![kittop 유스케이스](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/1cdf8350-1c2d-455d-99bc-1e847c67488a)
 
   ### 유스케이스
   
-![kittop 유스케이스](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/5f6b12fe-7d23-40e0-aaee-bf35e7296fe0)
+  ![kittop 유스케이스](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/5f6b12fe-7d23-40e0-aaee-bf35e7296fe0)
 
   
