@@ -61,8 +61,7 @@
   ### API 설계서
   
   https://www.notion.so/4eb9260eae9142d7956099a59cec52ce?v=ca0fece8cd3d488b8210449952f4e412
-  
-  [API_명세서.pdf](https://github.com/Seong-Hoon-Lim/Kittop/files/11781744/API_.pdf)
+
   
   
 
