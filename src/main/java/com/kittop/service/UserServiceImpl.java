@@ -25,9 +25,6 @@ public class UserServiceImpl implements UserService {
     private final ModelMapper modelMapper;
     private final PasswordEncoder encoder;
     HttpSession session;
-    private JavaMailSender mailSender;
-
-//    public static final String epw = createKey();
 
     @Override
     public void saveUser(UserDTO userDTO) {
