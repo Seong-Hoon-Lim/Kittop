@@ -58,11 +58,16 @@
 
   ![image](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/9934451d-2625-4d7a-9014-64db77a61f3c)
   
-  ### API 설계서
+  ### API 명세서
   
   https://www.notion.so/4eb9260eae9142d7956099a59cec52ce?v=ca0fece8cd3d488b8210449952f4e412
 
-  
+  ![API 명세서1](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/a7316261-83a3-4afd-b21e-ac2f818ae42c)
+
+  ![API 명세서2](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/fd43ae39-1b6a-40e4-aa51-c39a6798c92d)
+
+  ![API 명세서3](https://github.com/Seong-Hoon-Lim/Kittop/assets/108711069/e0cc2a2f-d7f6-44a0-8040-9836650d9243)
+
   
 
 
